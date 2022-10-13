@@ -1,3 +1,8 @@
+# FAQ component on React
+![](screenshot.png)
+  
+  
+https://youtu.be/1TSRd4fw3q8   FAQ demonstration
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
